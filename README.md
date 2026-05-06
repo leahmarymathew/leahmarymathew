@@ -39,6 +39,17 @@ Full-stack developer with experience in AI-powered products, frontend engineerin
 
 Currently focused on AI-native tooling, RAG systems, and building products that ship.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React-0f172a?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat" />
+  <img src="https://img.shields.io/badge/Supabase-0f172a?style=flat&logo=supabase" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat&logo=docker" />
+</p>
+
 ---
 
 ## Experience
@@ -186,9 +197,9 @@ Mostly Python and TypeScript, with active contributions across AI, full-stack, a
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leahmarymathew&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=94a3b8&icon_color=64748b"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leahmarymathew&show_icons=true&theme=transparent&hide_border=true&title_color=cbd5e1&text_color=94a3b8&icon_color=64748b" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahmarymathew&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=94a3b8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahmarymathew&layout=compact&theme=transparent&hide_border=true&title_color=cbd5e1&text_color=94a3b8" />
 
 </div>
 
@@ -196,7 +207,7 @@ Mostly Python and TypeScript, with active contributions across AI, full-stack, a
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leahmarymathew&bg_color=0d1117&color=94a3b8&line=cbd5e1&point=ffffff&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leahmarymathew&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
