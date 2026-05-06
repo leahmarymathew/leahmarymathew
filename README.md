@@ -1,11 +1,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&section=header&text=Leah%20Mary%20Mathew&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%20•%20%20Frontend%20Engineer%20%20•%20%20Cybersecurity%20Enthusiast&descAlignY=65&descColor=cbd5e1&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&section=header&text=Leah%20Mary%20Mathew&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%20•%20%20Frontend%20Engineer%20%20•%20%20AI%20Systems%20Builder&descAlignY=65&descColor=cbd5e1&descSize=16" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+systems;Designing+modern+user-centric+interfaces;Exploring+AI-assisted+engineering+workflows;Interested+in+developer+tools+and+product+engineering)](https://git.io/typing-svg)
+<h3 align="center">
+CS undergraduate building AI-powered products and full-stack systems. Open to SWE and product engineering roles.
+</h3>
+
+<p align="center">
+Currently open to internships and full-time SWE roles in product, AI, or frontend engineering.
+</p>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=94A3B8&center=true&vCenter=true&width=760&lines=Building+AI-native+tools+developers+actually+want+to+use;From+Figma+to+production%2C+end+to+end;Turning+ideas+into+shipped+products;Interested+in+developer+tools%2C+AI+systems%2C+and+product+engineering)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,9 +35,9 @@
 
 ## About
 
-Software developer focused on full-stack systems, developer tools, and user-centric interfaces.
+Full-stack developer with experience in AI-powered products, frontend engineering, and backend systems. I build systems that are scalable, maintainable, and product-focused — from retrieval-augmented generation pipelines to workflow-driven dashboards and developer tooling.
 
-Currently exploring scalable architectures, AI-assisted workflows, retrieval-augmented generation systems, and cybersecurity-oriented engineering.
+Currently focused on AI-native tooling, RAG systems, and building products that ship.
 
 ---
 
@@ -36,22 +46,24 @@ Currently exploring scalable architectures, AI-assisted workflows, retrieval-aug
 ### Cleareye.ai — Software Engineering Intern
 `Flask` `MariaDB` `Backend Engineering`
 
-- Contributed to AI product features and internal technology assets
-- Built backend APIs and optimized database workflows
-- Collaborated across product and engineering teams
+- Built and optimized backend APIs for AI-driven document processing products and internal technology assets
+- Developed database workflows and backend integrations using Flask and MariaDB
+- Worked in a fast-paced startup environment with short release cycles and cross-functional team collaboration
+
+---
 
 ### Travanleo — Frontend & UI/UX Developer
 `React` `Figma` `Frontend Engineering`
 
-- Developed responsive frontend interfaces
-- Translated Figma designs into production-ready components
-- Improved overall UI consistency and usability
+- Translated 15+ Figma screens into responsive production-ready React interfaces
+- Improved UI consistency by building reusable frontend components
+- Maintained design fidelity across breakpoints, working directly from Figma specifications
+
+---
 
 ### Cybersecurity Club — Core Member
 
-- Organized CTF events and technical sessions
-- Conducted workshops on Linux and security fundamentals
-- Mentored students in cybersecurity concepts
+- Organized CTF competitions, conducted workshops on Linux and security fundamentals, and mentored students in cybersecurity problem-solving
 
 ---
 
@@ -59,15 +71,14 @@ Currently exploring scalable architectures, AI-assisted workflows, retrieval-aug
 
 ### AI Content Intelligence Engine
 
-Production-oriented RAG platform featuring LangGraph orchestration, multi-vector retrieval pipelines, async FastAPI architecture, and analytics tooling.
+Production-oriented RAG platform with LangGraph orchestration, async FastAPI infrastructure, and multi-provider vector retrieval pipelines.
 
 `React` `FastAPI` `LangChain` `LangGraph` `Pinecone` `PostgreSQL`
 
-**Highlights**
-- Multi-provider vector retrieval architecture
-- Stateful workflow orchestration with retry pipelines
-- Analytics dashboards and latency tracing
-- Async backend infrastructure
+- Supports swappable vector retrieval backends including Pinecone and pgvector, reducing vendor lock-in across deployment environments
+- Uses LangGraph-based stateful orchestration with retry and rollback handling for reliable multi-stage AI pipelines
+- Includes analytics dashboards and request tracing to monitor inference latency and workflow performance
+- Designed with async backend infrastructure for scalable concurrent request handling
 
 <a href="https://github.com/leahmarymathew/AI-Driven-Content-Intelligence-Engine">
   View Repository
@@ -77,15 +88,14 @@ Production-oriented RAG platform featuring LangGraph orchestration, multi-vector
 
 ### SCADA Wind Turbine Monitoring
 
-Industrial predictive maintenance system using explainable ML pipelines and parallel computing for anomaly detection in wind turbine environments.
+Industrial predictive maintenance system using explainable machine learning and parallel computing for turbine anomaly detection.
 
 `Python` `XGBoost` `SHAP` `MPI` `OpenMP`
 
-**Highlights**
-- 2.5× inference optimization using OpenMP
-- SHAP-powered explainability workflows
-- Distributed turbine cluster simulations
-- High-recall anomaly detection pipelines
+- Achieved approximately 2.5× inference acceleration using OpenMP-based parallel execution
+- Uses SHAP explainability workflows to improve transparency in anomaly prediction pipelines
+- Simulates distributed turbine environments using MPI-based cluster computation models
+- Processes real SCADA telemetry features for high-recall predictive fault detection
 
 <a href="https://github.com/leahmarymathew/SCADA-Wind-Monitoring">
   View Repository
@@ -95,15 +105,14 @@ Industrial predictive maintenance system using explainable ML pipelines and para
 
 ### Heeyah — Hostel Management System
 
-Role-based hostel management platform with workflow automation, room allocation, attendance tracking, and responsive dashboards.
+Role-based hostel management platform with workflow automation, allocation management, and approval systems.
 
 `React` `Node.js` `Express` `Supabase` `PostgreSQL`
 
-**Highlights**
-- Role-based access architecture
-- Real-time allocation workflows
-- Responsive dashboard system
-- Authentication and approval pipelines
+- Supports multi-role workflows for students, wardens, caretakers, and administrators
+- Automates room allocation, attendance tracking, complaint management, and leave approvals
+- Implements role-gated access control with Supabase Auth, ensuring data isolation between user roles
+- Built with responsive dashboard-oriented frontend architecture
 
 <a href="https://github.com/leahmarymathew/heeyah">
   View Repository
@@ -113,15 +122,13 @@ Role-based hostel management platform with workflow automation, room allocation,
 
 ### UI-to-Code Converter
 
-AI-assisted system that converts natural language UI descriptions into structured frontend layouts using quantized LLM inference pipelines.
+AI-assisted system that converts natural language UI descriptions into structured frontend layouts using quantized LLM inference.
 
 `React` `Flask` `Python` `Mistral-7B`
 
-**Highlights**
-- Prompt-engineered UI generation
-- Cloud GPU inference workflows
-- Tailwind-compatible frontend generation
-- Modular inference architecture
+- Uses Mistral-7B with quantized inference pipelines to generate frontend layouts from text prompts
+- Integrates React frontend workflows with Flask-based inference orchestration
+- Supports Tailwind-compatible HTML generation for rapid UI prototyping
 
 <a href="https://github.com/leahmarymathew/ui-to-code">
   View Repository
@@ -131,15 +138,13 @@ AI-assisted system that converts natural language UI descriptions into structure
 
 ### College Discovery Platform
 
-Engineering college exploration and comparison platform with search, filtering, placement analytics, and serverless APIs.
+Engineering college exploration and comparison platform with filtering, analytics, and serverless APIs.
 
 `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
-**Highlights**
-- Real-time filtering and comparison
-- Placement and recruiter analytics
-- Edge-function API architecture
-- CI/CD deployment workflows
+- Supports real-time search, filtering, and side-by-side comparison workflows
+- Provides placement statistics, recruiter insights, and structured college analytics
+- Deployed on Vercel with automated CI/CD via GitHub Actions
 
 <a href="https://github.com/leahmarymathew/collegediscovery">
   View Repository
@@ -155,21 +160,29 @@ Engineering college exploration and comparison platform with search, filtering, 
 ### Backend
 `Node.js` `Express.js` `Flask` `FastAPI`
 
-### Databases
+### Databases & Platforms
 `PostgreSQL` `MySQL` `MariaDB` `Supabase`
 
 ### AI / ML
 `LangChain` `LangGraph` `XGBoost` `Scikit-learn`
 
-### Systems & Tools
+### Languages
+`Python` `TypeScript`
+
+### Tools
 `Git` `Linux` `Docker` `Vite`
 
-### Languages
-`Python` `C++` `JavaScript` `TypeScript`
+<br/>
+
+<sub>
+Also worked with C++ in systems and parallel computing coursework.
+</sub>
 
 ---
 
 ## GitHub Analytics
+
+Mostly Python and TypeScript, with active contributions across AI, full-stack, and systems projects.
 
 <div align="center">
 
@@ -189,30 +202,7 @@ Engineering college exploration and comparison platform with search, filtering, 
 
 ---
 
-## Currently Building
-
-- AI-assisted developer tooling
-- Retrieval-augmented generation systems
-- Scalable frontend architectures
-- Workflow-driven full-stack applications
-- Security-conscious engineering systems
-
----
-
-## Interests
-
-- Product Engineering
-- Frontend Architecture
-- AI Systems
-- Developer Experience
-- Cybersecurity
-- System Design
-
----
-
 <div align="center">
-
-<br/>
 
 <a href="https://linkedin.com/in/leahmarymathew">LinkedIn</a>
 &nbsp;•&nbsp;
@@ -223,7 +213,7 @@ Engineering college exploration and comparison platform with search, filtering, 
 <br/><br/>
 
 <sub>
-Focused on building scalable systems with strong engineering and product fundamentals.
+Always building. Always shipping.
 </sub>
 
 <br/><br/>
