@@ -1,425 +1,234 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Leah%20Mary%20Mathew&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Engineering%20elegant%20solutions%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=62&descSize=18&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&section=header&text=Leah%20Mary%20Mathew&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%20•%20%20Frontend%20Engineer%20%20•%20%20Cybersecurity%20Enthusiast&descAlignY=65&descColor=cbd5e1&descSize=16" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Frontend+Engineer;Cybersecurity+Enthusiast;UI%2FUX+Focused+Builder;Product+Engineer+%40+Startups)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+systems;Designing+modern+user-centric+interfaces;Exploring+AI-assisted+engineering+workflows;Interested+in+developer+tools+and+product+engineering)](https://git.io/typing-svg)
 
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/leahmarymathew">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/leahmarymathew">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="mailto:leahmarymathew@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://leahmarymathew.github.io/leahmarymathew">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="https://github.com/leahmarymathew">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/leahmarymathew">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:leahmarymathew@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://leahmarymathew.github.io/leahmarymathew">Portfolio</a>
 </p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=leahmarymathew&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-<table>
-<tr>
-<td width="55%">
+Software developer focused on full-stack systems, developer tools, and user-centric interfaces.
 
-```typescript
-const leah = {
-  name:      "Leah Mary Mathew",
-  location:  "Kerala, India 🇮🇳",
-  roles:     ["Full Stack Dev", "Frontend Eng", "Security Enthusiast"],
-  stack:     ["React", "Flask", "Node.js", "Supabase", "Python", "C++"],
-  interests: ["Product Engineering", "Cybersecurity", "Open Source"],
-  currently: "Building things that matter ✨",
-  funFact:   "I debug with console.log and I am not sorry 😄",
-};
-```
-
-I'm a passionate software developer who thrives at the intersection of clean code and exceptional user experiences. From architecting full-stack web apps to exploring cybersecurity concepts, I bring a product-minded approach to every project I tackle.
-
-<br/>
-
-**What I bring to the table:**
-- 🚀 End-to-end product development mindset
-- 🎨 Strong eye for design & UI/UX principles
-- 🔐 Cybersecurity awareness in software architecture
-- 🤝 Leadership in technical communities
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=leahmarymathew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&count_private=true" width="100%" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leahmarymathew&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=7C3AED&fire=06B6D4&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=94a3b8" width="100%" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
+Currently exploring scalable architectures, AI-assisted workflows, retrieval-augmented generation systems, and cybersecurity-oriented engineering.
 
 ---
 
-## 📊 Professional Snapshot
+## Experience
 
-<div align="center">
+### Cleareye.ai — Software Engineering Intern
+`Flask` `MariaDB` `Backend Engineering`
 
-| 🗓️ Coding Since | 🛠️ Projects Built | 💼 Internships | 🏆 Clubs Led | 🔐 CTF Events | 🌐 Tech Areas |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **2021** | **10+** | **2** | **2** | **1** | **8+** |
-| Full Stack Journey | Shipped Products | Industry Experience | Leadership Roles | CTF Organizer | Domains Covered |
+- Contributed to AI product features and internal technology assets
+- Built backend APIs and optimized database workflows
+- Collaborated across product and engineering teams
 
-</div>
+### Travanleo — Frontend & UI/UX Developer
+`React` `Figma` `Frontend Engineering`
 
----
+- Developed responsive frontend interfaces
+- Translated Figma designs into production-ready components
+- Improved overall UI consistency and usability
 
-## 🏆 GitHub Trophies
+### Cybersecurity Club — Core Member
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=leahmarymathew&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ⚡ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,figma&theme=dark" />
-
-### 🔧 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,python,supabase,mysql,postgres&theme=dark" />
-
-### 🧠 AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-### 🖥️ Languages & Tools
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,git,linux,vscode,docker&theme=dark" />
-
-### 🔐 Cybersecurity & Others
-<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>📋 Full Tech Stack Breakdown</b></summary>
-<br/>
-
-| Category | Technologies |
-|:---|:---|
-| **Frontend** | React, Next.js 13, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript, shadcn/ui |
-| **Backend** | Node.js, Express.js, Flask, FastAPI (async), REST APIs |
-| **Databases** | Supabase (PostgreSQL), MySQL, MariaDB, SQLite, FAISS, Chroma, Pinecone |
-| **AI / ML** | XGBoost, SHAP, LangChain, LangGraph, HuggingFace Transformers, Scikit-learn |
-| **Languages** | Python, JavaScript, TypeScript, C++, C, Bash, MATLAB, R |
-| **UI & Design** | Figma, Tailwind CSS, Recharts, CSS Animations |
-| **Tools** | Git, GitHub, Linux, VSCode, Docker, Vite, Netlify |
-| **Cybersecurity** | CTF Challenges, Network Security Basics, Linux Security, Kali Linux |
-
-</details>
+- Organized CTF events and technical sessions
+- Conducted workshops on Linux and security fundamentals
+- Mentored students in cybersecurity concepts
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### AI Content Intelligence Engine
 
-### 🏠 Heeyah — Hostel Management System
-> **Modern hostel ops, reimagined**
+Production-oriented RAG platform featuring LangGraph orchestration, multi-vector retrieval pipelines, async FastAPI architecture, and analytics tooling.
 
-A full-stack hostel management platform with role-based access for students, wardens, caretakers, and admins. Features real-time room allocation, RFID-simulated attendance, complaint management, and leave approval workflows.
+`React` `FastAPI` `LangChain` `LangGraph` `Pinecone` `PostgreSQL`
 
-**Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `Supabase` `PostgreSQL`
-
-**Highlights:**
-- 📊 Dashboard-driven room & student management
-- 🔐 Supabase Auth with role-based access control
-- 📱 Fully responsive UI with Tailwind CSS
-- ⚡ Attendance tracking with RFID simulation
-
-<a href="https://github.com/leahmarymathew/heeyah">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI-Driven Content Intelligence Engine
-> **RAG-powered generation at production scale**
-
-Full-stack AI content platform with a React frontend and async FastAPI backend. Features a modular RAG pipeline (LangChain LCEL + LangGraph), multi-vector retrieval (FAISS/Pinecone/Chroma), structured logging, and latency tracing.
-
-**Stack:** `React` `FastAPI` `LangChain` `LangGraph` `FAISS` `Pinecone` `PostgreSQL`
-
-**Highlights:**
-- 🔍 Multi-provider vector retrieval architecture
-- 🔁 LangGraph workflow with retries & rollback state
-- 📊 Analytics dashboard with Recharts
-- 🔒 JWT auth + async API with stage latency tracing
+**Highlights**
+- Multi-provider vector retrieval architecture
+- Stateful workflow orchestration with retry pipelines
+- Analytics dashboards and latency tracing
+- Async backend infrastructure
 
 <a href="https://github.com/leahmarymathew/AI-Driven-Content-Intelligence-Engine">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  View Repository
 </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🌬️ SCADA Wind Turbine Monitoring
-> **Industrial AI + parallel computing**
+### SCADA Wind Turbine Monitoring
 
-Predictive maintenance system for wind turbines that detects power-curve anomalies using XGBoost, delivers SHAP-based explainability, and achieves a **2.5× inference speedup** via OpenMP/MPI parallelism — mirroring real-world wind-farm pipelines.
+Industrial predictive maintenance system using explainable ML pipelines and parallel computing for anomaly detection in wind turbine environments.
 
-**Stack:** `Python` `XGBoost` `SHAP` `OpenMP` `MPI` `C` `Scikit-learn`
+`Python` `XGBoost` `SHAP` `MPI` `OpenMP`
 
-**Highlights:**
-- ⚡ 2.5× speedup with OpenMP + ~40% latency reduction
-- 🔍 SHAP explainability for transparent fault diagnostics
-- 🏭 Scalable MPI distributed turbine cluster simulation
-- 📈 High-recall anomaly detection on real SCADA features
+**Highlights**
+- 2.5× inference optimization using OpenMP
+- SHAP-powered explainability workflows
+- Distributed turbine cluster simulations
+- High-recall anomaly detection pipelines
 
 <a href="https://github.com/leahmarymathew/SCADA-Wind-Monitoring">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  View Repository
 </a>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🎨 UI-to-Code Converter
-> **Design descriptions → production-ready HTML**
+### Heeyah — Hostel Management System
 
-AI tool that converts natural language UI descriptions into clean HTML + Tailwind CSS using Mistral-7B (4-bit quantized on Google Colab GPU). Features a React frontend, a Flask proxy API, and ngrok-tunnelled LLM inference.
+Role-based hostel management platform with workflow automation, room allocation, attendance tracking, and responsive dashboards.
 
-**Stack:** `React` `Vite` `Flask` `Python` `Mistral-7B` `HuggingFace` `Tailwind CSS`
+`React` `Node.js` `Express` `Supabase` `PostgreSQL`
 
-**Highlights:**
-- 🤖 Mistral-7B-Instruct with 4-bit quantization
-- ☁️ Cloud GPU inference via Google Colab + ngrok tunnel
-- 🎯 Chat-template prompt engineering for code generation
-- 🚀 Extendable to screenshot-to-code & Figma-to-code
+**Highlights**
+- Role-based access architecture
+- Real-time allocation workflows
+- Responsive dashboard system
+- Authentication and approval pipelines
+
+<a href="https://github.com/leahmarymathew/heeyah">
+  View Repository
+</a>
+
+---
+
+### UI-to-Code Converter
+
+AI-assisted system that converts natural language UI descriptions into structured frontend layouts using quantized LLM inference pipelines.
+
+`React` `Flask` `Python` `Mistral-7B`
+
+**Highlights**
+- Prompt-engineered UI generation
+- Cloud GPU inference workflows
+- Tailwind-compatible frontend generation
+- Modular inference architecture
 
 <a href="https://github.com/leahmarymathew/ui-to-code">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  View Repository
 </a>
 
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top" colspan="2">
+---
 
-### 🎓 College Discovery Platform
-> **Engineering career decisions, data-driven**
+### College Discovery Platform
 
-Full-stack platform for exploring, filtering, and comparing engineering colleges across India. Features side-by-side comparisons, real-time search, placement stats, recruiter insights, and Supabase Edge Function APIs — deployed on Netlify.
+Engineering college exploration and comparison platform with search, filtering, placement analytics, and serverless APIs.
 
-**Stack:** `Next.js 13` `TypeScript` `Tailwind CSS` `shadcn/ui` `Supabase` `PostgreSQL` `Netlify`
+`Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
-**Highlights:**
-- 🔍 Real-time search + smart filters (state, type, fee range)
-- 📊 Placement & salary statistics with side-by-side comparison
-- ⚡ Supabase Edge Functions for serverless API
-- 🌐 Deployed on Netlify with auto CI/CD from GitHub
+**Highlights**
+- Real-time filtering and comparison
+- Placement and recruiter analytics
+- Edge-function API architecture
+- CI/CD deployment workflows
 
 <a href="https://github.com/leahmarymathew/collegediscovery">
-  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  View Repository
 </a>
 
-</td>
-</tr>
-</table>
+---
+
+## Technical Stack
+
+### Frontend
+`React` `Next.js` `TypeScript` `Tailwind CSS` `JavaScript`
+
+### Backend
+`Node.js` `Express.js` `Flask` `FastAPI`
+
+### Databases
+`PostgreSQL` `MySQL` `MariaDB` `Supabase`
+
+### AI / ML
+`LangChain` `LangGraph` `XGBoost` `Scikit-learn`
+
+### Systems & Tools
+`Git` `Linux` `Docker` `Vite`
+
+### Languages
+`Python` `C++` `JavaScript` `TypeScript`
 
 ---
 
-## 💼 Experience & Leadership
-
-<table>
-<tr>
-<td width="8%" align="center">🏢</td>
-<td>
-
-**Software Engineering Intern — Cleareye.ai** &nbsp; `2024`
-
-*Flask · MariaDB · AI Products*
-
-Contributed to core AI product features — building and optimizing backend APIs using Flask, managing database operations with MariaDB, and collaborating with the product team on feature development cycles.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="8%" align="center">🎨</td>
-<td>
-
-**Frontend & UI/UX Developer — Travanleo** &nbsp; `2024`
-
-*React · Figma · CSS*
-
-Designed and developed frontend components with a focus on UI/UX quality. Translated Figma mockups into pixel-perfect React interfaces and contributed to the overall design system.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="8%" align="center">🔐</td>
-<td>
-
-**Core Member — Cybersecurity Club** &nbsp; `2022 – Present`
-
-*CTF · Workshops · Community Building*
-
-Organized CTF challenges, conducted cybersecurity awareness sessions, and mentored juniors in ethical hacking fundamentals, network security, and Linux-based security tooling.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="8%" align="center">✍️</td>
-<td>
-
-**Sub Lead — Literary Club** &nbsp; `2022 – Present`
-
-*Events · Publications · Community Management*
-
-Led the editorial team for the college magazine, coordinated tech-fest literary events, managed cross-functional volunteer teams, and organized inter-college competitions.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahmarymathew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" width="45%" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leahmarymathew&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=94a3b8&icon_color=64748b"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahmarymathew&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=94a3b8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leahmarymathew&bg_color=0d1117&color=94a3b8&line=cbd5e1&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+## Currently Building
+
+- AI-assisted developer tooling
+- Retrieval-augmented generation systems
+- Scalable frontend architectures
+- Workflow-driven full-stack applications
+- Security-conscious engineering systems
+
+---
+
+## Interests
+
+- Product Engineering
+- Frontend Architecture
+- AI Systems
+- Developer Experience
+- Cybersecurity
+- System Design
+
+---
+
+<div align="center">
+
+<br/>
+
+<a href="https://linkedin.com/in/leahmarymathew">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:leahmarymathew@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/leahmarymathew">GitHub</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leahmarymathew&theme=tokyo-night&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=7C3AED&hide_border=true&radius=8" width="95%" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="16%">
-
-🚩<br/>
-**CTF Organizer**<br/>
-<sub>Cybersecurity</sub>
-
-</td>
-<td align="center" width="16%">
-
-🌐<br/>
-**Full Stack Dev**<br/>
-<sub>5+ Shipped Projects</sub>
-
-</td>
-<td align="center" width="16%">
-
-🎨<br/>
-**UI/UX Design**<br/>
-<sub>Figma Proficient</sub>
-
-</td>
-<td align="center" width="16%">
-
-🔓<br/>
-**Open Source**<br/>
-<sub>Active Learner</sub>
-
-</td>
-<td align="center" width="16%">
-
-⚡<br/>
-**Frontend Dev**<br/>
-<sub>React Specialist</sub>
-
-</td>
-<td align="center" width="16%">
-
-🧩<br/>
-**Problem Solver**<br/>
-<sub>Algorithmic Thinking</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<br/>
-
-> *"The best programs are the ones written when the programmer is supposed to be working on something else."* — Melinda Varian
-
-<br/>
-
-<a href="https://linkedin.com/in/leahmarymathew">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/leahmarymathew">
-  <img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:leahmarymathew@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leahmarymathew.github.io/leahmarymathew">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<sub>
+Focused on building scalable systems with strong engineering and product fundamentals.
+</sub>
 
 <br/><br/>
 
-💬 **Open to:** Full-time roles · Internships · Open source collaborations · Freelance projects
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0f172a,100:1e293b&section=footer"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-<sub>Crafted with ❤️ by Leah &nbsp;·&nbsp; Last updated 2026</sub>
-
-</div>
+```
