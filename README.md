@@ -83,7 +83,7 @@ I'm a passionate software developer who thrives at the intersection of clean cod
 
 | 🗓️ Coding Since | 🛠️ Projects Built | 💼 Internships | 🏆 Clubs Led | 🔐 CTF Events | 🌐 Tech Areas |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **2021** | **5+** | **2** | **2** | **1** | **6+** |
+| **2021** | **10+** | **2** | **2** | **1** | **8+** |
 | Full Stack Journey | Shipped Products | Industry Experience | Leadership Roles | CTF Organizer | Domains Covered |
 
 </div>
@@ -106,13 +106,16 @@ I'm a passionate software developer who thrives at the intersection of clean cod
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,figma&theme=dark" />
 
 ### 🔧 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,supabase,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,python,supabase,mysql,postgres&theme=dark" />
+
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
 ### 🖥️ Languages & Tools
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,git,linux,vscode,docker&theme=dark" />
 
 ### 🔐 Cybersecurity & Others
-<img src="https://skillicons.dev/icons?i=linux,bash,kali,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
 
 </div>
 
@@ -124,14 +127,14 @@ I'm a passionate software developer who thrives at the intersection of clean cod
 
 | Category | Technologies |
 |:---|:---|
-| **Frontend** | React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript |
-| **Backend** | Node.js, Express.js, Flask, REST APIs |
-| **Databases** | Supabase (PostgreSQL), MySQL, MariaDB |
-| **Languages** | Python, JavaScript, TypeScript, C++, Bash |
-| **UI & Design** | Figma, Tailwind CSS, Three.js, CSS Animations |
-| **Tools** | Git, GitHub, Linux, VSCode, Docker (learning) |
+| **Frontend** | React, Next.js 13, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript, shadcn/ui |
+| **Backend** | Node.js, Express.js, Flask, FastAPI (async), REST APIs |
+| **Databases** | Supabase (PostgreSQL), MySQL, MariaDB, SQLite, FAISS, Chroma, Pinecone |
+| **AI / ML** | XGBoost, SHAP, LangChain, LangGraph, HuggingFace Transformers, Scikit-learn |
+| **Languages** | Python, JavaScript, TypeScript, C++, C, Bash, MATLAB, R |
+| **UI & Design** | Figma, Tailwind CSS, Recharts, CSS Animations |
+| **Tools** | Git, GitHub, Linux, VSCode, Docker, Vite, Netlify |
 | **Cybersecurity** | CTF Challenges, Network Security Basics, Linux Security, Kali Linux |
-| **Desktop Apps** | PyQt5 (cross-platform GUI development) |
 
 </details>
 
@@ -146,37 +149,37 @@ I'm a passionate software developer who thrives at the intersection of clean cod
 ### 🏠 Heeyah — Hostel Management System
 > **Modern hostel ops, reimagined**
 
-A full-stack hostel management platform featuring real-time room allocation, tenant dashboards, and an admin control panel with clean analytics.
+A full-stack hostel management platform with role-based access for students, wardens, caretakers, and admins. Features real-time room allocation, RFID-simulated attendance, complaint management, and leave approval workflows.
 
-**Stack:** `React` `Express.js` `Node.js` `MySQL`
+**Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `Supabase` `PostgreSQL`
 
 **Highlights:**
-- 📊 Dashboard-driven room management
-- 🔐 Role-based authentication system
-- 📱 Fully responsive UI
-- ⚡ Real-time availability tracking
+- 📊 Dashboard-driven room & student management
+- 🔐 Supabase Auth with role-based access control
+- 📱 Fully responsive UI with Tailwind CSS
+- ⚡ Attendance tracking with RFID simulation
 
-<a href="https://github.com/leahmarymathew">
+<a href="https://github.com/leahmarymathew/heeyah">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📁 Dory — Cross-Platform File Manager
-> **Terminal power, GUI simplicity**
+### 🤖 AI-Driven Content Intelligence Engine
+> **RAG-powered generation at production scale**
 
-A lightweight cross-platform file manager built with PyQt5, supporting Linux and Windows with an integrated terminal and minimalist aesthetic.
+Full-stack AI content platform with a React frontend and async FastAPI backend. Features a modular RAG pipeline (LangChain LCEL + LangGraph), multi-vector retrieval (FAISS/Pinecone/Chroma), structured logging, and latency tracing.
 
-**Stack:** `Python` `PyQt5` `Linux` `Windows`
+**Stack:** `React` `FastAPI` `LangChain` `LangGraph` `FAISS` `Pinecone` `PostgreSQL`
 
 **Highlights:**
-- 🖥️ Linux & Windows compatible
-- ⌨️ Integrated terminal emulation
-- 🎨 Minimalist, distraction-free interface
-- ⚡ Keyboard-driven navigation
+- 🔍 Multi-provider vector retrieval architecture
+- 🔁 LangGraph workflow with retries & rollback state
+- 📊 Analytics dashboard with Recharts
+- 🔒 JWT auth + async API with stage latency tracing
 
-<a href="https://github.com/leahmarymathew">
+<a href="https://github.com/leahmarymathew/AI-Driven-Content-Intelligence-Engine">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -185,40 +188,40 @@ A lightweight cross-platform file manager built with PyQt5, supporting Linux and
 <tr>
 <td width="50%" valign="top">
 
-### 📋 Leave Management System
-> **HR workflows, automated**
+### 🌬️ SCADA Wind Turbine Monitoring
+> **Industrial AI + parallel computing**
 
-Enterprise-grade leave management system with end-to-end employee and admin workflows, approval chains, and real-time notifications.
+Predictive maintenance system for wind turbines that detects power-curve anomalies using XGBoost, delivers SHAP-based explainability, and achieves a **2.5× inference speedup** via OpenMP/MPI parallelism — mirroring real-world wind-farm pipelines.
 
-**Stack:** `React` `Node.js` `Supabase` `PostgreSQL`
+**Stack:** `Python` `XGBoost` `SHAP` `OpenMP` `MPI` `C` `Scikit-learn`
 
 **Highlights:**
-- 🔑 Auth with Supabase Row-Level Security
-- 👥 Employee & admin role separation
-- 📧 Notification workflows
-- 📊 Leave balance analytics
+- ⚡ 2.5× speedup with OpenMP + ~40% latency reduction
+- 🔍 SHAP explainability for transparent fault diagnostics
+- 🏭 Scalable MPI distributed turbine cluster simulation
+- 📈 High-recall anomaly detection on real SCADA features
 
-<a href="https://github.com/leahmarymathew">
+<a href="https://github.com/leahmarymathew/SCADA-Wind-Monitoring">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌴 Kerala Tourism Interactive Website
-> **Travel storytelling with 3D magic**
+### 🎨 UI-to-Code Converter
+> **Design descriptions → production-ready HTML**
 
-An immersive Kerala tourism showcase with Three.js-powered 3D animations, interactive destination cards, and a cinematic browsing experience.
+AI tool that converts natural language UI descriptions into clean HTML + Tailwind CSS using Mistral-7B (4-bit quantized on Google Colab GPU). Features a React frontend, a Flask proxy API, and ngrok-tunnelled LLM inference.
 
-**Stack:** `Three.js` `JavaScript` `HTML5` `CSS3`
+**Stack:** `React` `Vite` `Flask` `Python` `Mistral-7B` `HuggingFace` `Tailwind CSS`
 
 **Highlights:**
-- 🎭 3D scene rendering with Three.js
-- 🗺️ Interactive destination exploration
-- ✨ Particle effects & ambient animations
-- 📱 Responsive across devices
+- 🤖 Mistral-7B-Instruct with 4-bit quantization
+- ☁️ Cloud GPU inference via Google Colab + ngrok tunnel
+- 🎯 Chat-template prompt engineering for code generation
+- 🚀 Extendable to screenshot-to-code & Figma-to-code
 
-<a href="https://github.com/leahmarymathew">
+<a href="https://github.com/leahmarymathew/ui-to-code">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -228,19 +231,19 @@ An immersive Kerala tourism showcase with Three.js-powered 3D animations, intera
 <td width="100%" valign="top" colspan="2">
 
 ### 🎓 College Discovery Platform
-> **Engineering career decisions, simplified**
+> **Engineering career decisions, data-driven**
 
-A comprehensive platform for comparing engineering colleges with smart filtering, placement statistics, recruiter insights, and college ranking algorithms.
+Full-stack platform for exploring, filtering, and comparing engineering colleges across India. Features side-by-side comparisons, real-time search, placement stats, recruiter insights, and Supabase Edge Function APIs — deployed on Netlify.
 
-**Stack:** `React` `Node.js` `MySQL`
+**Stack:** `Next.js 13` `TypeScript` `Tailwind CSS` `shadcn/ui` `Supabase` `PostgreSQL` `Netlify`
 
 **Highlights:**
-- 🔍 Advanced search & multi-faceted filtering
-- 📈 Placement & salary statistics visualization
-- 🏫 Side-by-side college comparison tool
-- 🎯 Recruiter and company insights database
+- 🔍 Real-time search + smart filters (state, type, fee range)
+- 📊 Placement & salary statistics with side-by-side comparison
+- ⚡ Supabase Edge Functions for serverless API
+- 🌐 Deployed on Netlify with auto CI/CD from GitHub
 
-<a href="https://github.com/leahmarymathew">
+<a href="https://github.com/leahmarymathew/collegediscovery">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
