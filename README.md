@@ -1,158 +1,226 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&section=header&text=Leah%20Mary%20Mathew&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%20•%20%20Frontend%20Engineer%20%20•%20%20AI%20Systems%20Builder&descAlignY=65&descColor=cbd5e1&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a5f,100:0f172a&section=header&text=Leah%20Mary%20Mathew&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20actually%20ship%20•%20ai%20%7C%20full-stack%20%7C%20systems&descAlignY=62&descColor=64748b&descSize=15" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=CS+undergraduate+%7C+open+to+SWE+%2F+product+%2F+AI+engineering+roles;building+AI-native+tooling+and+agentic+systems;from+Figma+to+FastAPI+to+prod+%E2%80%94+end+to+end;currently+deep+in%3A+LangGraph+%7C+Go+%7C+multi-agent+pipelines)](https://git.io/typing-svg)
 
 <br/>
 
-<h3 align="center">
-CS undergraduate building AI-powered products and full-stack systems. Open to SWE and product engineering roles.
-</h3>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=94A3B8&center=true&vCenter=true&width=760&lines=Building+AI-native+tools+developers+actually+want+to+use;From+Figma+to+production%2C+end+to+end;Turning+ideas+into+shipped+products;Interested+in+developer+tools%2C+AI+systems%2C+and+product+engineering)](https://git.io/typing-svg)
-
-<br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/leahmarymathew">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:leahmarymathew@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://leahmarymathew.github.io/leahmarymathew">Portfolio</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat&logo=linkedin&logoColor=64748b)](https://linkedin.com/in/leahmarymathew)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat&logo=firefox&logoColor=64748b)](https://leahmarymathew.github.io/leahmarymathew)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat&logo=gmail&logoColor=64748b)](mailto:leahmarymathew@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=leahmarymathew&style=flat&color=0f172a&labelColor=0f172a&label=profile+views)](https://github.com/leahmarymathew)
 
 </div>
 
 ---
 
-## About
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahmarymathew&layout=compact&theme=transparent&hide_border=true&title_color=64748b&text_color=94a3b8&icon_color=64748b&langs_count=8" />
 
-Full-stack developer with experience in AI-powered products, frontend engineering, and backend systems. I build systems that are scalable, maintainable, and product-focused — from retrieval-augmented generation pipelines to multi-agent workflows and developer tooling.
+### hey, I'm Leah 👋
 
-Currently focused on agentic AI systems, RAG pipelines, and building products that ship.
+I'm a CS undergraduate based in Kerala, India — I build AI-powered products and full-stack systems that are meant to actually be used, not just demoed.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Python-0f172a?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Go-0f172a?style=flat&logo=go" />
-  <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat" />
-  <img src="https://img.shields.io/badge/LangGraph-0f172a?style=flat" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat&logo=docker" />
-</p>
+I'm drawn to the intersection of **product thinking and engineering depth** — whether that's a multi-agent procurement system, a video commerce platform, or a TCP key-value store written from scratch in Go.
+
+Currently open to **internships and full-time SWE roles** in product engineering, AI systems, or frontend.
+
+<br clear="right"/>
 
 ---
 
-## Experience
+### 🔭 what I'm working on
 
-### Cleareye.ai — Software Engineering Intern
-`Flask` `MariaDB` `Backend Engineering`
+- **vertishop** — multi-merchant video commerce with Stripe Connect + Next.js 16
+- **procurement-intelligence-agent** — four LangGraph agents automating the full S2P lifecycle
+- **kv-store** — TCP key-value store in Go with WAL and custom binary protocol
 
-- Built and optimized backend APIs for AI-driven document processing products and internal technology assets
-- Developed database workflows and backend integrations using Flask and MariaDB
-- Worked in a fast-paced startup environment with short release cycles and cross-functional team collaboration
+### 🌱 currently learning / exploring
 
----
+- Go for systems programming (beyond the kv-store)
+- n8n workflow orchestration for ops automation
+- Advanced LangGraph patterns: parallel branching, human-in-the-loop, subgraph composition
 
-### Travanleo — Frontend & UI/UX Developer
-`React` `Figma` `Frontend Engineering`
+### 💬 ask me about
 
-- Translated 15+ Figma screens into responsive production-ready React interfaces
-- Improved UI consistency by building reusable frontend components
-- Maintained design fidelity across breakpoints, working directly from Figma specifications
+RAG pipelines · LangGraph orchestration · FastAPI architecture · React/Next.js · building ML systems that go to production · parallel computing (OpenMP/MPI) · Supabase Auth patterns
 
 ---
 
-## Selected Projects
+### 🛠️ tech I work with
 
-### Vertishop — Video Commerce Platform
+<div align="left">
 
-Multi-merchant video commerce platform with a TikTok-style vertical feed, Stripe Connect payouts, and real-time inventory management.
+**Languages**
 
-`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle ORM` `Stripe Connect` `Docker` `Supabase`
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat&logo=python&logoColor=3b82f6)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript&logoColor=3b82f6)
+![Go](https://img.shields.io/badge/Go-0f172a?style=flat&logo=go&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat&logo=javascript&logoColor=3b82f6)
+![C++](https://img.shields.io/badge/C++-0f172a?style=flat&logo=cplusplus&logoColor=3b82f6)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat&logo=postgresql&logoColor=3b82f6)
 
-- Multi-merchant architecture with isolated storefronts and Stripe Connect split payouts per vendor
-- Vertical video feed with product tagging, enabling in-feed purchases without leaving the video experience
-- Containerized with Docker for reproducible local and production environments
+**Frontend**
 
-<a href="https://github.com/leahmarymathew/vertishop">View Repository</a>
+![React](https://img.shields.io/badge/React-0f172a?style=flat&logo=react&logoColor=06b6d4)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=nextdotjs&logoColor=06b6d4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat&logo=tailwindcss&logoColor=06b6d4)
+![Angular](https://img.shields.io/badge/Angular-0f172a?style=flat&logo=angular&logoColor=06b6d4)
 
----
+**Backend & Infra**
 
-### Procurement Intelligence Agent
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat&logo=fastapi&logoColor=10b981)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat&logo=nodedotjs&logoColor=10b981)
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat&logo=flask&logoColor=10b981)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat&logo=docker&logoColor=10b981)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat&logo=postgresql&logoColor=10b981)
+![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=flat&logo=supabase&logoColor=10b981)
 
-Multi-agent Source-to-Pay automation system with four specialist agents handling supplier scoring, approval routing, process discovery, and risk analysis.
+**AI / ML**
 
-`LangChain` `LangGraph` `FastAPI` `React` `SQLite`
+![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=flat&logoColor=a855f7)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=flat&logoColor=a855f7)
+![XGBoost](https://img.shields.io/badge/XGBoost-0f172a?style=flat&logoColor=a855f7)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=flat&logo=scikitlearn&logoColor=a855f7)
+![FAISS](https://img.shields.io/badge/FAISS-0f172a?style=flat&logoColor=a855f7)
+![Pinecone](https://img.shields.io/badge/Pinecone-0f172a?style=flat&logoColor=a855f7)
 
-- Four coordinated agents covering the full S2P lifecycle — supplier evaluation through payment approval
-- LangGraph-based orchestration with stateful handoffs and rollback handling between agent nodes
-- Approval routing logic adapts dynamically based on spend thresholds and supplier risk scores
-
-<a href="https://github.com/leahmarymathew/procurement-intelligence-agent">View Repository</a>
-
----
-
-### AI Content Intelligence Engine
-
-RAG platform with LangGraph orchestration, async FastAPI backend, and swappable vector retrieval across Pinecone, pgvector, and FAISS.
-
-`React` `FastAPI` `LangChain` `LangGraph` `Pinecone` `PostgreSQL`
-
-- Swappable vector retrieval backends (Pinecone / pgvector / FAISS) reducing vendor lock-in across deployments
-- Stateful LangGraph pipelines with retry and rollback for reliable multi-stage AI workflows
-- Analytics dashboards and request tracing for inference latency and workflow performance monitoring
-
-<a href="https://github.com/leahmarymathew/AI-Driven-Content-Intelligence-Engine">View Repository</a>
+</div>
 
 ---
 
-### KV Store
+### 🚀 selected projects
 
-TCP key-value store written in Go from scratch with a custom binary protocol, TTL expiry, and a write-ahead log for crash recovery.
+> things I've built that I'm actually proud of
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🛍️ Vertishop](https://github.com/leahmarymathew/vertishop)**
+
+Multi-merchant video commerce platform with TikTok-style vertical feed, in-video product tagging, and Stripe Connect split payouts.
+
+`Next.js 16` `React 19` `TypeScript` `Drizzle ORM` `Stripe Connect` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**[🤖 Procurement Intelligence Agent](https://github.com/leahmarymathew/procurement-intelligence-agent)**
+
+Four LangGraph specialist agents automating the full Source-to-Pay lifecycle — supplier scoring, approval routing, risk analysis, and process discovery.
+
+`LangGraph` `LangChain` `FastAPI` `React` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🧠 Content Intelligence Engine](https://github.com/leahmarymathew/AI-Driven-Content-Intelligence-Engine)**
+
+RAG platform with swappable vector backends (Pinecone / pgvector / FAISS), async FastAPI, LangGraph orchestration, and inference analytics dashboards.
+
+`FastAPI` `LangGraph` `Pinecone` `PostgreSQL` `React`
+
+</td>
+<td width="50%" valign="top">
+
+**[⚡ KV Store](https://github.com/leahmarymathew/kv-store)**
+
+TCP key-value store built from scratch in Go — custom binary protocol, TTL expiry, and a write-ahead log for crash recovery.
 
 `Go` `TCP` `WAL` `Binary Protocol`
 
-- Custom binary protocol over raw TCP — no HTTP overhead, designed for low-latency reads and writes
-- Write-ahead log ensures durability and crash recovery without an external database
-- TTL-based key expiry with background eviction for memory-bounded operation
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/leahmarymathew/kv-store">View Repository</a>
+**[💊 Pharma Molecule Ranker](https://github.com/leahmarymathew/moleculedecisionsystem)**
 
----
+Production analytics platform over IQVIA market data — XGBoost ranking with SHAP explainability, Docker + Prometheus + Grafana observability stack.
 
-### Pharma Molecule Ranker
+`Python` `XGBoost` `SHAP` `Docker` `Prometheus` `Grafana`
 
-Production-ready pharmaceutical analytics platform analyzing IQVIA market data to rank drug molecules for investment and launch decisions.
+</td>
+<td width="50%" valign="top">
 
-`Python` `FastAPI` `XGBoost` `Scikit-learn` `Docker` `Prometheus` `Grafana`
+**[🏠 Heeyah](https://github.com/leahmarymathew/heeyah)**
 
-- Composite scoring pipeline over molecule-level IQVIA data with configurable weight profiles per therapeutic area
-- Dockerized deployment with Prometheus metrics and Grafana dashboards for pipeline observability
-- XGBoost-based ranking model with SHAP explainability for investment decision transparency
-
-<a href="https://github.com/leahmarymathew/moleculedecisionsystem">View Repository</a>
-
----
-
-### Heeyah — Hostel Management System
-
-Role-based hostel management platform with workflow automation, allocation management, and multi-role approval systems.
+Role-based hostel management system — multi-role workflows for students, wardens, and admins with Supabase Auth row-level security.
 
 `React` `Node.js` `Express` `Supabase` `PostgreSQL`
 
-- Multi-role workflows for students, wardens, caretakers, and administrators with Supabase Auth role-gating
-- Automates room allocation, attendance tracking, complaint management, and leave approvals end-to-end
-- Data isolation enforced at the RLS policy level — each role sees only what they are permitted to access
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/leahmarymathew/heeyah">View Repository</a>
+---
+
+### 💼 experience
+
+**Cleareye.ai** · Software Engineering Intern
+`Flask` · `MariaDB` · built and optimized backend APIs for AI-driven document processing; worked in tight release cycles with a cross-functional team
+
+**Travanleo** · Frontend & UI/UX Developer
+`React` · `Figma` · translated 15+ Figma screens into production-ready interfaces; built reusable component systems and maintained design fidelity across breakpoints
+
+**Cybersecurity Club** · Core Member
+organized CTF competitions, ran Linux and security workshops, mentored juniors
+
+---
+
+### 📊 github stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=leahmarymathew&show_icons=true&theme=transparent&hide_border=true&title_color=64748b&text_color=94a3b8&icon_color=3b82f6&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160em" src="https://streak-stats.demolab.com?user=leahmarymathew&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=64748b&sideLabels=64748b&currStreakNum=94a3b8&sideNums=94a3b8&dates=475569" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=leahmarymathew&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+### 🐍 contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leahmarymathew/leahmarymathew/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leahmarymathew/leahmarymathew/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/leahmarymathew/leahmarymathew/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+### 📈 activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leahmarymathew&theme=react-dark&hide_border=true&area=true&area_color=1e3a5f&line=3b82f6&point=64748b&color=94a3b8" />
+
+</div>
 
 ---
 
 <div align="center">
-<sub>Always building. Always shipping.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e3a5f,100:0f172a&section=footer" />
+
+<sub>open to interesting problems · leahmarymathew@gmail.com</sub>
+
 </div>
