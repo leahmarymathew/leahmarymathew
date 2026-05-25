@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&section=header&text=Leah%20Mary%20Mathew&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%20•%20%20Frontend%20Engineer%20%20•%20%20AI%20Systems%20Builder&descAlignY=65&descColor=cbd5e1&descSize=16" />
@@ -9,10 +8,6 @@
 CS undergraduate building AI-powered products and full-stack systems. Open to SWE and product engineering roles.
 </h3>
 
-<p align="center">
-Currently open to internships and full-time SWE roles in product, AI, or frontend engineering.
-</p>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=94A3B8&center=true&vCenter=true&width=760&lines=Building+AI-native+tools+developers+actually+want+to+use;From+Figma+to+production%2C+end+to+end;Turning+ideas+into+shipped+products;Interested+in+developer+tools%2C+AI+systems%2C+and+product+engineering)](https://git.io/typing-svg)
@@ -20,8 +15,6 @@ Currently open to internships and full-time SWE roles in product, AI, or fronten
 <br/>
 
 <p align="center">
-  <a href="https://github.com/leahmarymathew">GitHub</a>
-  &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/leahmarymathew">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="mailto:leahmarymathew@gmail.com">Email</a>
@@ -35,18 +28,20 @@ Currently open to internships and full-time SWE roles in product, AI, or fronten
 
 ## About
 
-Full-stack developer with experience in AI-powered products, frontend engineering, and backend systems. I build systems that are scalable, maintainable, and product-focused — from retrieval-augmented generation pipelines to workflow-driven dashboards and developer tooling.
+Full-stack developer with experience in AI-powered products, frontend engineering, and backend systems. I build systems that are scalable, maintainable, and product-focused — from retrieval-augmented generation pipelines to multi-agent workflows and developer tooling.
 
-Currently focused on AI-native tooling, RAG systems, and building products that ship.
+Currently focused on agentic AI systems, RAG pipelines, and building products that ship.
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-0f172a?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/Python-0f172a?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Go-0f172a?style=flat&logo=go" />
   <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat" />
-  <img src="https://img.shields.io/badge/Supabase-0f172a?style=flat&logo=supabase" />
+  <img src="https://img.shields.io/badge/LangGraph-0f172a?style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Docker-0f172a?style=flat&logo=docker" />
 </p>
 
@@ -72,164 +67,92 @@ Currently focused on AI-native tooling, RAG systems, and building products that 
 
 ---
 
-### Cybersecurity Club — Core Member
+## Selected Projects
 
-- Organized CTF competitions, conducted workshops on Linux and security fundamentals, and mentored students in cybersecurity problem-solving
+### Vertishop — Video Commerce Platform
+
+Multi-merchant video commerce platform with a TikTok-style vertical feed, Stripe Connect payouts, and real-time inventory management.
+
+`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle ORM` `Stripe Connect` `Docker` `Supabase`
+
+- Multi-merchant architecture with isolated storefronts and Stripe Connect split payouts per vendor
+- Vertical video feed with product tagging, enabling in-feed purchases without leaving the video experience
+- Containerized with Docker for reproducible local and production environments
+
+<a href="https://github.com/leahmarymathew/vertishop">View Repository</a>
 
 ---
 
-## Selected Projects
+### Procurement Intelligence Agent
+
+Multi-agent Source-to-Pay automation system with four specialist agents handling supplier scoring, approval routing, process discovery, and risk analysis.
+
+`LangChain` `LangGraph` `FastAPI` `React` `SQLite`
+
+- Four coordinated agents covering the full S2P lifecycle — supplier evaluation through payment approval
+- LangGraph-based orchestration with stateful handoffs and rollback handling between agent nodes
+- Approval routing logic adapts dynamically based on spend thresholds and supplier risk scores
+
+<a href="https://github.com/leahmarymathew/procurement-intelligence-agent">View Repository</a>
+
+---
 
 ### AI Content Intelligence Engine
 
-Production-oriented RAG platform with LangGraph orchestration, async FastAPI infrastructure, and multi-provider vector retrieval pipelines.
+RAG platform with LangGraph orchestration, async FastAPI backend, and swappable vector retrieval across Pinecone, pgvector, and FAISS.
 
 `React` `FastAPI` `LangChain` `LangGraph` `Pinecone` `PostgreSQL`
 
-- Supports swappable vector retrieval backends including Pinecone and pgvector, reducing vendor lock-in across deployment environments
-- Uses LangGraph-based stateful orchestration with retry and rollback handling for reliable multi-stage AI pipelines
-- Includes analytics dashboards and request tracing to monitor inference latency and workflow performance
-- Designed with async backend infrastructure for scalable concurrent request handling
+- Swappable vector retrieval backends (Pinecone / pgvector / FAISS) reducing vendor lock-in across deployments
+- Stateful LangGraph pipelines with retry and rollback for reliable multi-stage AI workflows
+- Analytics dashboards and request tracing for inference latency and workflow performance monitoring
 
-<a href="https://github.com/leahmarymathew/AI-Driven-Content-Intelligence-Engine">
-  View Repository
-</a>
+<a href="https://github.com/leahmarymathew/AI-Driven-Content-Intelligence-Engine">View Repository</a>
 
 ---
 
-### SCADA Wind Turbine Monitoring
+### KV Store
 
-Industrial predictive maintenance system using explainable machine learning and parallel computing for turbine anomaly detection.
+TCP key-value store written in Go from scratch with a custom binary protocol, TTL expiry, and a write-ahead log for crash recovery.
 
-`Python` `XGBoost` `SHAP` `MPI` `OpenMP`
+`Go` `TCP` `WAL` `Binary Protocol`
 
-- Achieved approximately 2.5× inference acceleration using OpenMP-based parallel execution
-- Uses SHAP explainability workflows to improve transparency in anomaly prediction pipelines
-- Simulates distributed turbine environments using MPI-based cluster computation models
-- Processes real SCADA telemetry features for high-recall predictive fault detection
+- Custom binary protocol over raw TCP — no HTTP overhead, designed for low-latency reads and writes
+- Write-ahead log ensures durability and crash recovery without an external database
+- TTL-based key expiry with background eviction for memory-bounded operation
 
-<a href="https://github.com/leahmarymathew/SCADA-Wind-Monitoring">
-  View Repository
-</a>
+<a href="https://github.com/leahmarymathew/kv-store">View Repository</a>
+
+---
+
+### Pharma Molecule Ranker
+
+Production-ready pharmaceutical analytics platform analyzing IQVIA market data to rank drug molecules for investment and launch decisions.
+
+`Python` `FastAPI` `XGBoost` `Scikit-learn` `Docker` `Prometheus` `Grafana`
+
+- Composite scoring pipeline over molecule-level IQVIA data with configurable weight profiles per therapeutic area
+- Dockerized deployment with Prometheus metrics and Grafana dashboards for pipeline observability
+- XGBoost-based ranking model with SHAP explainability for investment decision transparency
+
+<a href="https://github.com/leahmarymathew/moleculedecisionsystem">View Repository</a>
 
 ---
 
 ### Heeyah — Hostel Management System
 
-Role-based hostel management platform with workflow automation, allocation management, and approval systems.
+Role-based hostel management platform with workflow automation, allocation management, and multi-role approval systems.
 
 `React` `Node.js` `Express` `Supabase` `PostgreSQL`
 
-- Supports multi-role workflows for students, wardens, caretakers, and administrators
-- Automates room allocation, attendance tracking, complaint management, and leave approvals
-- Implements role-gated access control with Supabase Auth, ensuring data isolation between user roles
-- Built with responsive dashboard-oriented frontend architecture
+- Multi-role workflows for students, wardens, caretakers, and administrators with Supabase Auth role-gating
+- Automates room allocation, attendance tracking, complaint management, and leave approvals end-to-end
+- Data isolation enforced at the RLS policy level — each role sees only what they are permitted to access
 
-<a href="https://github.com/leahmarymathew/heeyah">
-  View Repository
-</a>
-
----
-
-### UI-to-Code Converter
-
-AI-assisted system that converts natural language UI descriptions into structured frontend layouts using quantized LLM inference.
-
-`React` `Flask` `Python` `Mistral-7B`
-
-- Uses Mistral-7B with quantized inference pipelines to generate frontend layouts from text prompts
-- Integrates React frontend workflows with Flask-based inference orchestration
-- Supports Tailwind-compatible HTML generation for rapid UI prototyping
-
-<a href="https://github.com/leahmarymathew/ui-to-code">
-  View Repository
-</a>
-
----
-
-### College Discovery Platform
-
-Engineering college exploration and comparison platform with filtering, analytics, and serverless APIs.
-
-`Next.js` `TypeScript` `Supabase` `Tailwind CSS`
-
-- Supports real-time search, filtering, and side-by-side comparison workflows
-- Provides placement statistics, recruiter insights, and structured college analytics
-- Deployed on Vercel with automated CI/CD via GitHub Actions
-
-<a href="https://github.com/leahmarymathew/collegediscovery">
-  View Repository
-</a>
-
----
-
-## Technical Stack
-
-### Frontend
-`React` `Next.js` `TypeScript` `Tailwind CSS` `JavaScript`
-
-### Backend
-`Node.js` `Express.js` `Flask` `FastAPI`
-
-### Databases & Platforms
-`PostgreSQL` `MySQL` `MariaDB` `Supabase`
-
-### AI / ML
-`LangChain` `LangGraph` `XGBoost` `Scikit-learn`
-
-### Languages
-`Python` `TypeScript`
-
-### Tools
-`Git` `Linux` `Docker` `Vite`
-
-<br/>
-
-<sub>
-Also worked with C++ in systems and parallel computing coursework.
-</sub>
-
----
-
-## GitHub Analytics
-
-Mostly Python and TypeScript, with active contributions across AI, full-stack, and systems projects.
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leahmarymathew&show_icons=true&theme=transparent&hide_border=true&title_color=cbd5e1&text_color=94a3b8&icon_color=64748b" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahmarymathew&layout=compact&theme=transparent&hide_border=true&title_color=cbd5e1&text_color=94a3b8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leahmarymathew&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
+<a href="https://github.com/leahmarymathew/heeyah">View Repository</a>
 
 ---
 
 <div align="center">
-
-<a href="https://linkedin.com/in/leahmarymathew">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="mailto:leahmarymathew@gmail.com">Email</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/leahmarymathew">GitHub</a>
-
-<br/><br/>
-
-<sub>
-Always building. Always shipping.
-</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0f172a,100:1e293b&section=footer"/>
-
+<sub>Always building. Always shipping.</sub>
 </div>
-```
