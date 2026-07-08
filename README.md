@@ -8,7 +8,7 @@
 
 ### Leah Mary Mathew
 
-CS undergraduate. I build AI-native systems — RAG pipelines, agentic workflows, LLM inference tools — and the full-stack products that surface them. Currently exploring multi-agent architectures and systems programming in Go.
+CS undergraduate building AI-native systems: RAG pipelines, agentic workflows, LLM inference tools, and open-source infrastructure. Contributor to ROS-Industrial and KoyraCloud. Currently exploring multi-agent architectures and systems programming in Go.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=7d8590&labelColor=0d1117)](https://linkedin.com/in/leahmarymathew)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat&logo=githubpages&logoColor=7d8590&labelColor=0d1117)](https://leahmarymathew.github.io/leahmarymathew)&nbsp;
@@ -45,16 +45,25 @@ CS undergraduate. I build AI-native systems — RAG pipelines, agentic workflows
 
 ---
 
+**open source**
+
+| | project | contribution |
+|:--|:--|:--|
+| `merged` | [koyracloud](https://github.com/koyracloud/koyracloud) | friendlier build/deploy diagnostics · deploy pre-flight validation · unit + integration tests |
+| `active` | [ros-industrial/vda5050_core](https://github.com/ros-industrial/vda5050_core) | strongly typed ProtocolVersion API · CI fixes · API redesign from maintainer feedback |
+
+---
+
 **selected work**
 
 | | project | description |
 |:--|:--|:--|
 | `AI` | [vertishop](https://github.com/leahmarymathew/vertishop) | multi-merchant video commerce · TikTok-style feed · Stripe Connect · Next.js 16 + React 19 |
-| `AI` | [procurement-intelligence-agent](https://github.com/leahmarymathew/procurement-intelligence-agent) | 4 LangGraph agents automating source-to-pay · supplier scoring · approval routing |
 | `AI` | [content-intelligence-engine](https://github.com/leahmarymathew/AI-Driven-Content-Intelligence-Engine) | RAG platform · Pinecone / pgvector / FAISS backends · async FastAPI · analytics |
-| `AI` | [pharma-molecule-ranker](https://github.com/leahmarymathew/moleculedecisionsystem) | XGBoost ranking over IQVIA data · SHAP explainability · Docker + Prometheus + Grafana |
 | `SYS` | [kv-store](https://github.com/leahmarymathew/kv-store) | TCP key-value store in Go · custom binary protocol · TTL expiry · write-ahead log |
-| `FS` | [heeyah](https://github.com/leahmarymathew/heeyah) | hostel management · multi-role workflows · Supabase Auth RLS · React + Node.js |
+| `AI` | [procurement-intelligence-agent](https://github.com/leahmarymathew/procurement-intelligence-agent) | 4 LangGraph agents automating source-to-pay · supplier scoring · approval routing |
+| `AI` | [pharma-molecule-ranker](https://github.com/leahmarymathew/moleculedecisionsystem) | XGBoost ranking over IQVIA data · SHAP explainability · Docker + Prometheus + Grafana |
+| `FS` | [heeyah](https://github.com/leahmarymathew/heeyah) | hostel management platform · role-based workflows · Supabase RLS authentication |
 
 ---
 
